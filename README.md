@@ -3,9 +3,17 @@
 
 <img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Curso.html
 
+***Página com alguns cursos do senac
+
 <img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Primeira Aula.html
 
+***Página com alguns comandos usados na primeira aula
+
+
 <img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Escola.html
+
+***Página com foto e alguns cursos da escola
+
 
 ---
 
