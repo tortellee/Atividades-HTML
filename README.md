@@ -1,18 +1,8 @@
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
 ### <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50" height="50"> Atividades HTML, Descrição:
-
-
-
-**Página com alguns cursos do senac
-
-<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Primeira Aula.html
-
-
-
-
-<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Escola.html
-
-
+|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Curso.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Primeira-Aula.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Escola.html|
+|------|---------|----------|
+|Página com alguns cursos da escola|Página com alguns comandos usados na primeira aula|Página com foto e alguns cursos da escola
 
 
 ---
@@ -31,6 +21,4 @@
 
 
 
-|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Curso.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Primeira-Aula.html|<img src="https://www.webcoursesbangkok.com/wp-content/uploads/2015/04/Tick.png" width="16" height="16"> Escola.html|
-|------|---------|----------|
-|***Página com alguns cursos da escola|***Página com alguns comandos usados na primeira aula|***Página com foto e alguns cursos da escola
+
